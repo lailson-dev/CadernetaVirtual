@@ -1,0 +1,7 @@
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\bin\Debug\DAL.dll
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\bin\Debug\DAL.pdb
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\bin\Debug\DTO.dll
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\bin\Debug\DTO.pdb
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\obj\Debug\DAL.dll
+C:\Users\Familia\documents\visual studio 2013\Projects\CadernetaVirtual\DAL\obj\Debug\DAL.pdb
